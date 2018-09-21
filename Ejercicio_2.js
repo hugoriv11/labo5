@@ -6,4 +6,4 @@ function ordenar (array) {
             console.log("aasdad")
         }
     }
-}
+} 
